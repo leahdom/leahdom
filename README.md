@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi.
 
 - 🔭 I’m an  ✨ _Amateur_ ✨ 
 - 🌱 I’m currently learning Python, C and Java
